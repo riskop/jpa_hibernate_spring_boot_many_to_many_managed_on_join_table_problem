@@ -1,0 +1,2 @@
+# jpa_hibernate_spring_boot_many_to_many_managed_on_join_table_problem
+jpa_hibernate_spring_boot_many_to_many_managed_on_join_table_problem
